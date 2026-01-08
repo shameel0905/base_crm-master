@@ -1,0 +1,6 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Variant SKU,Variant Grams,Variant Inventory Qty,Variant Inventory Policy,Variant Price,Image Src
+performance-track-suit,Performance Track Suit,Comfortable performance tracksuit,Nike,Active Wear,,TRUE,Option1,S,Option2,,TS-001-S,,2,deny,89.99,https://example.com/images/tracksuit-front.png
+performance-track-suit,,,,,,,Option1,M,Option2,,TS-001-M,,3,deny,89.99,
+performance-track-suit,,,,,,,,,,,,,,,,https://example.com/images/tracksuit-back.png
+premium-yoga-pants,Premium Yoga Pants,Premium stretch yoga pants,Lululemon,Active Wear,,FALSE,Option1,,Option2,,YP-001,,0,continue,59.99,https://example.com/images/yoga-pants.png
+breathable-running-shorts,Breathable Running Shorts,Lightweight running shorts,Adidas,Active Wear,,TRUE,Option1,,Option2,,RS-001,,12,deny,39.99,https://example.com/images/shorts.png

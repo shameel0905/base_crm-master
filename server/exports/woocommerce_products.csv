@@ -1,0 +1,5 @@
+ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Tax status,In stock?,Stock,Backorders allowed?,Sold individually?,Regular price,Categories,Tags,Shipping class,Images
+1,simple,TS-001-S,Performance Track Suit,1,0,visible,,Comfortable performance tracksuit,taxable,1,2,no,no,89.99,Active Wear,,,"https://example.com/images/tracksuit-front.png,https://example.com/images/tracksuit-back.png"
+1,simple,TS-001-M,Performance Track Suit,1,0,visible,,Comfortable performance tracksuit,taxable,1,3,no,no,89.99,Active Wear,,,"https://example.com/images/tracksuit-front.png,https://example.com/images/tracksuit-back.png"
+2,simple,YP-001,Premium Yoga Pants,0,0,visible,,Premium stretch yoga pants,taxable,0,0,no,no,59.99,Active Wear,,,https://example.com/images/yoga-pants.png
+3,simple,RS-001,Breathable Running Shorts,1,0,visible,,Lightweight running shorts,taxable,1,12,no,no,39.99,Active Wear,,,https://example.com/images/shorts.png
