@@ -1,0 +1,36 @@
+{
+  "name": "base-crm",
+  "version": "1.0.0",
+  "description": "Modern CRM system with WooCommerce integration",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm start",
+    "dev": "npm run server & npm run client",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build",
+    "test": "cd client && npm test",
+    "test:connection": "cd server && npm run test:connection"
+  },
+  "keywords": [
+    "crm",
+    "woocommerce",
+    "react",
+    "node",
+    "ecommerce"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moiz65/base_crm"
+  }
+}
