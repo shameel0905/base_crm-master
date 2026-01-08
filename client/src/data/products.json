@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Performance Track Suit",
+    "body_html": "Comfortable performance tracksuit",
+    "vendor": "Nike",
+    "product_type": "Active Wear",
+    "status": "active",
+    "price": "89.99",
+    "sku": "TS-001",
+    "inventory_quantity": 5,
+    "inventory_policy": "deny",
+    "images": [
+      "https://example.com/images/tracksuit-front.png",
+      "https://example.com/images/tracksuit-back.png"
+    ],
+    "variants": [
+      { "sku": "TS-001-S", "option1": "S", "price": "89.99", "inventory_quantity": 2 },
+      { "sku": "TS-001-M", "option1": "M", "price": "89.99", "inventory_quantity": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Premium Yoga Pants",
+    "body_html": "Premium stretch yoga pants",
+    "vendor": "Lululemon",
+    "product_type": "Active Wear",
+    "status": "draft",
+    "price": "59.99",
+    "sku": "YP-001",
+    "inventory_quantity": 0,
+    "inventory_policy": "continue",
+    "images": ["https://example.com/images/yoga-pants.png"]
+  },
+  {
+    "id": 3,
+    "title": "Breathable Running Shorts",
+    "body_html": "Lightweight running shorts",
+    "vendor": "Adidas",
+    "product_type": "Active Wear",
+    "status": "active",
+    "price": "39.99",
+    "sku": "RS-001",
+    "inventory_quantity": 12,
+    "inventory_policy": "deny",
+    "images": ["https://example.com/images/shorts.png"]
+  }
+]

@@ -1,0 +1,14 @@
+/* Global form focus styles to remove default black outline and shadows */
+input:focus, textarea:focus, select:focus, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Keep a subtle accessible focus ring for keyboard users (optional)
+   Use when user navigates with keyboard - provide visible focus for accessibility */
+@media (prefers-reduced-motion: no-preference) {
+  .focus-visible:focus {
+    outline: 2px solid rgba(0,86,96,0.18);
+    outline-offset: 2px;
+  }
+}
